@@ -1,0 +1,4 @@
+This is to setup the connection between private key and the public key in GitHub.
+
+1. Add the Publick Key in GitHub - Settings
+2. ssh -T git@github.com

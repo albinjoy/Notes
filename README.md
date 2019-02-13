@@ -1,0 +1,2 @@
+# Notes
+Linux Academy Notes
